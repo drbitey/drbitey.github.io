@@ -1,1 +1,10 @@
-<! empty for now>
+.title {
+  margin-left: 25px;
+}
+.sub {
+  float:left;
+  background-color: #F5F5F5;
+  margin: 10px 20px;
+  padding: 20px;
+  width: 180px;
+}
